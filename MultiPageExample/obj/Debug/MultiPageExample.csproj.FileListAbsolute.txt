@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\bin\Debug\MultiPageExample.exe.config
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\bin\Debug\MultiPageExample.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\bin\Debug\MultiPageExample.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\obj\Debug\MultiPageExample.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\obj\Debug\MultiPageExample.Form1.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\obj\Debug\MultiPageExample.Properties.Resources.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\obj\Debug\MultiPageExample.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\obj\Debug\MultiPageExample.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\obj\Debug\MultiPageExample.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\MultiPageExample\MultiPageExample\obj\Debug\MultiPageExample.pdb
